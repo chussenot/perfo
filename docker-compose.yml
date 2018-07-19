@@ -1,0 +1,5 @@
+nervous_perf:
+  container_name: iperf-container
+  build: .
+  ports:
+    - 5001:5001/tcp

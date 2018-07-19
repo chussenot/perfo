@@ -1,4 +1,4 @@
-nervous_perf:
+nervous-perf:
   container_name: iperf-container
   build: .
   ports:

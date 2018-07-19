@@ -34,3 +34,8 @@ Resources
 ---------
 
 And now take a look at all the tests you can do with [iperf3](https://github.com/esnet/iperf).
+
+Kubernetes and the HELL
+-----------------------
+
+* [Use kompose](http://kompose.io/getting-started/)

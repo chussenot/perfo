@@ -1,5 +1,5 @@
 nervous-perf:
   container_name: iperf-container
-  build: .
+  image: iperf
   ports:
     - 5001:5001/tcp
